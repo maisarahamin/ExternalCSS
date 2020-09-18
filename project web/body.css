@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(116, 203, 214);
+}
+#fname {
+  background-color: powderblue;
+}
+#table {
+  background-color: powderblue;
+}
+#list1 {
+    background-color: powderblue;
+}
+#image {
+    background-color: powderblue;
+}
+table, th, td {
+    border: 1px solid black;
+  }
